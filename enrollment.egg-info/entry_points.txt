@@ -1,0 +1,2 @@
+[console_scripts]
+enrollment = enrollment.cli:cli

@@ -1,0 +1,8 @@
+README.md
+setup.py
+enrollment.egg-info/PKG-INFO
+enrollment.egg-info/SOURCES.txt
+enrollment.egg-info/dependency_links.txt
+enrollment.egg-info/entry_points.txt
+enrollment.egg-info/requires.txt
+enrollment.egg-info/top_level.txt
